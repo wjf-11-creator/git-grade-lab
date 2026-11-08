@@ -1,4 +1,5 @@
-#class grade calculator
+
+#team grade calculqtor for class
 ## 課前準備
 
 - 安裝 [Git](https://git-scm.com/downloads)，版本 2.28 以上。Windows 使用 Git Bash；macOS / Linux 使用終端機。
@@ -33,8 +34,7 @@ pwd
 ~~~text
 git-grade-lab/
   README.md
-  grades.py
-~~~
+  grade~~~
 
 起始 `README.md`：
 
