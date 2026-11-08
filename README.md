@@ -1,7 +1,4 @@
-# Git 入門課：學生練習講義
-
-五個練習都使用同一個小專案。Sxx 是投影片／講稿的穩定 ID。練習要使用教材倉庫外的獨立副本，不要在這份教材的 Git 倉庫裡初始化或 commit。
-
+#class grade calculator
 ## 課前準備
 
 - 安裝 [Git](https://git-scm.com/downloads)，版本 2.28 以上。Windows 使用 Git Bash；macOS / Linux 使用終端機。
