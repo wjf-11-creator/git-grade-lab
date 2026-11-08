@@ -1,6 +1,6 @@
-# Git 入門課：學生練習講義
+#team grade calculator
 
-五個練習都使用同一個小專案。Sxx 是投影片／講稿的穩定 ID。練習要使用教材倉庫外的獨立副本，不要在這份教材的 Git 倉庫裡初始化或 commit。
+
 
 ## 課前準備
 
@@ -36,8 +36,7 @@ pwd
 ~~~text
 git-grade-lab/
   README.md
-  grades.py
-~~~
+  grade~~~
 
 起始 `README.md`：
 
