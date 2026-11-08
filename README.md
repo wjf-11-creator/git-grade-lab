@@ -388,3 +388,4 @@ git merge --no-edit origin/main
 [Pro Git 繁體中文](https://git-scm.com/book/zh-tw/v2) · [git diff](https://git-scm.com/docs/git-diff) · [git restore](https://git-scm.com/docs/git-restore) · [git revert](https://git-scm.com/docs/git-revert) · [gitignore](https://git-scm.com/docs/gitignore) · [git pull](https://git-scm.com/docs/git-pull) · [GitHub Pull Requests](https://docs.github.com/en/pull-requests)
 Input: a list of scores.
 
+Output: the average score.
